@@ -4,3 +4,4 @@
 @@||bradesco.us-4.evergage.com
 @@||app-measurement.com^
 @@||s.go-mpulse.net^
+@@||c.go-mpulse.net^
