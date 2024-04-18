@@ -3,6 +3,5 @@
 
 ######Bradesco
 @@||bradesco.us-4.evergage.com
-@@||s.go-mpulse.net
-@@||c.go-mpulse.net
+@@||go-mpulse.net
 ########################
