@@ -1,7 +1,5 @@
 # ||evergage.com^ to block
 # @@||refer.discover.com^| to allow
 
-@@||bradesco.us-4.evergage.com
-@@||app-measurement.com^
 @@||s.go-mpulse.net^
 @@||c.go-mpulse.net^
