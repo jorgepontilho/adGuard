@@ -1,0 +1,4 @@
+# ||evergage.com^ to block
+# @@||refer.discover.com^| to allow
+
+@@||bradesco.us-4.evergage.com
